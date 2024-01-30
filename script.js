@@ -6,7 +6,7 @@ const secondsEl = document.getElementById("seconds");
 
 
 //set target date
-const newYear = '1 Jan 2024';
+const newYear = '1 Jan 2025';
 
 //function to calculate the time remaining until the target date
 function countdown() {
