@@ -1,6 +1,6 @@
 # **Project: CountDown Timer**
 
-**Demo Link:**[ Countdown Timer Demo](https://magnificent-puffpuff-90e9ff.netlify.app/)
+**Demo Link:**[ Countdown Timer Demo](https://noor-ismot.github.io/Countdown-Timer/)
 
 **Programming Language:** HTML, CSS, Javascript
 
