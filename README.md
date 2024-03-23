@@ -5,7 +5,7 @@
 **Programming Language:** HTML, CSS, Javascript
 
 
-![countdownTimer](timer-background.jpg)
+![countdownTimer](countdown.png)
 
 
 **Project Description:**
