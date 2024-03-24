@@ -14,4 +14,7 @@ I created a Countdown Timer responsive web application using HTML, CSS, and Java
 
 **Challenges Faced:**
 
-One challenge I encountered was accurately calculating the time remaining until the target date while ensuring the countdown displayed correctly. I overcame this challenge by implementing a function to calculate the time difference between the target date and the current date, converting it to days, hours, minutes, and seconds.
+One challenge I encountered was accurately calculating the time remaining until the target date while ensuring the countdown displayed correctly. I overcame this challenge by implementing a function to calculate the time difference between the target date and the current date, converting it to days, hours, minutes, and seconds.<br> <br>
+
+                                    Copyright © Noor Ismot Ara- All rights reserved
+
